@@ -1,6 +1,6 @@
 - 👋 I’m @Martinez-Hernandez
 - 👀 I’m interested in developing statistical models for large datasets with aplications to healthcare
-- 💞️ I’m currently a postdoc at Lancaster University, maths and stats department
+- 💞️ I’m lecturer (assistant professor) in Statistics at Lancaster University, maths and stats department
 - 📫 i.martinezhernandez@lancaster.ac.uk
 
 <!---
